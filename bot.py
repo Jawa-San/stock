@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import stonk
 
-TOKEN = 'MTA2MTEwNzMwOTIwOTcyMzA0MQ.GhqC4W.dJU6uEwH0Q6FVu9JTdd9DZaxYtInNY4lgKVUnA'
+TOKEN = 'MTA2MTEwNzMwOTIwOTcyMzA0MQ.GNVYix.8Zo_PnpiGs4kkRuJjyXDMrVp7Z9q5dXjqzC4w8'
 CHANNEL = 1061108864898039818
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
